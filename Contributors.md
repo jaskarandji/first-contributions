@@ -594,6 +594,7 @@
 - [Andrew Skillett]
 - [Wahaj404](https://github.com/Wahaj404)
 - [happinyz]
+  [jaskaran]
   [Thomas]
 - [Noah Conway]
 - [Debarya Das]
